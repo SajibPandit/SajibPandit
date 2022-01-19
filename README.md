@@ -1,5 +1,5 @@
 ### Hi there 👋, My Name is Sajib Pandit
-I am a passionate full-stack web developer with hands-on experience with multiple web technologies for building high-performance websites. I am looking for an organization where I can use my skills & knowledge to lead that organization to success. I am constantly learning new technologies every day.
+I am a passionate full-stack web developer with hands-on experience with multiple web technologies for building high-performance websites. I am constantly learning new technologies every day.
 
 Skills: REACT JS / NODE JS / TypeScript / HTML / CSS
 
