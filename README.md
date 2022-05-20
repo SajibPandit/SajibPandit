@@ -3,7 +3,7 @@ I am a passionate full-stack web developer with hands-on experience with multipl
 
 Skills : React JS / Node JS / TypeScript / MongoDB / Next JS
 
-- 🔭 I’m currently working on MerchBD 
+- 🔭 I’m currently working on ---- 
 - 🌱 I’m currently learning React Native 
 - 👯 I’m looking to collaborate on Creative Projects 
 
