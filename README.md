@@ -1,7 +1,7 @@
 ### Hi there 👋, My Name is Sajib Pandit
 I am a passionate full-stack web developer with hands-on experience with multiple web technologies for building high-performance web applications. I am constantly learning new technologies every day.
 
-Skills : React JS / Node JS / TypeScript / MongoDB / Next JS
+Skills: React JS / Node JS / TypeScript / MongoDB / Next JS
 
 - 🔭 I’m currently working on ----
 - 🌱 I’m currently learning React Native 
