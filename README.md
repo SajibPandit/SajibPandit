@@ -8,7 +8,7 @@ Skills: React JS / Node JS / TypeScript / MongoDB / Next JS
 - 👯 I’m looking to collaborate on Creative Projects 
 
 <div style="text-align: between,margin-bottom:15px">
-<img src="https://github-readme-stats.vercel.app/api?username=SajibPandit&show_icons=true&theme=radical"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=SajibPandit&show_icons=true&theme=radical"/> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajibPandit&layout=compact"/>
 </div>
 
